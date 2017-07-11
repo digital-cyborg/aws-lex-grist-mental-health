@@ -8,10 +8,10 @@ An AWS Lex implementation of the GRiST mental health risk assessment system that
 
 ### GRiST
 
+![GRiST Logo](https://github.com/digital-cyborg/aws-lex-grist-mental-health/blob/master/images/grist-logo-tiny.png)
 (GRiST) [https://www.egrist.org/] uses a computational model of psychological processes to represent structured clinical judgements of multidisciplinary mental-health practitioners. GRiST models clinicians' expertise and how they perceive and assess mental health risk with the aim to assist with the early detection of mental-health risks. 
 
 GRiST is being used by various NHS secondary Mental Health Trusts, charities, IAPT services. Recently, a version tailored to the needs of paramedics, A&E and other front line agencies was introduced to enable non-experts, such as 111 paramedics, to assess the initial risk of mental health patients in the same way that clinicians do. This allows high-risk patients to be directed to the right place for detailed monitoring. 
-![GRiST Logo](https://github.com/digital-cyborg/aws-lex-grist-mental-health/blob/master/images/grist-logo-tiny.png)
 
 ## How it's built
 
