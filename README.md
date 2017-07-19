@@ -2,7 +2,7 @@
 
 [Try Gaia](http://digitalcyb.org/#/) using the web interface. This prototype currently implements the suicide thoughts questions only. Start the interaction using **I feel suicidal**. 
 
-[Watch the video](https://www.youtube.com/watch?v=ssvc2FhGym8)
+[Watch the video](https://www.youtube.com/watch?v=ssvc2FhGym8) [View the chatbot code](https://github.com/digital-cyborg/gaia-grist-lexbot) [Code for the web ui](https://github.com/digital-cyborg/aws-lex-web-ui)
 
 There are 1 in 4 people that suffer with mental health problems in the UK. Medical resources cannot deal with the increased number of people accessing medical services, partly due to several public campaigns that address the stigma around mental health problems. Increased demand have placed a strain on current medical resources. We aim to use technology to help provide tools for individuals and organisations to . We aim to help users self-assess their mental health, and if at risk, provide links to services for immediate support while they wait for the medical resources to become available. 
 
